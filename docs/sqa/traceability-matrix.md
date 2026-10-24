@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-24 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | pending |
+| 2026-10-24 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [e8d24b2] |
 
 ---
 
@@ -47,3 +47,4 @@ No use case, domain model or design artifact exists: the project is too small fo
 [RC-003]: ./reviews/rc-003-mil-001-foundation.md
 [RC-004]: ./reviews/rc-004-mil-002-movie-page.md
 [RC-005]: ./reviews/rc-005-mil-003-documentation.md
+[e8d24b2]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/041-web-movie-ranking/commit/e8d24b2d32ce1ef8276123b0efa05b8a15e27d52
