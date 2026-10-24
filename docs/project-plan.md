@@ -31,9 +31,9 @@ This plan schedules the three gateways of the HTML-only Favorite Movie project o
 
 | Gateway | Document | Window | Decision date | Owner | Stories | Main deliverable | Milestone |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Foundation | [MIL-001] | 2026-10-24 to 2026-10-25 | 2026-10-25 | S01 | none | Folder skeleton, workflows, repository metadata | |
-| Movie page | [MIL-002] | 2026-10-25 to 2026-10-26 | 2026-10-26 | S01 | none | index.html, styles.css, manual checklist | |
-| Documentation | [MIL-003] | 2026-10-26 to 2026-10-27 | 2026-10-27 | S01 | none | README, screenshots, wiki in en, da, ms | |
+| Foundation | [MIL-001] | 2026-10-24 to 2026-10-25 | 2026-10-25 | S01 | none | Folder skeleton, workflows, repository metadata | [Foundation](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/041-web-movie-ranking/milestones/247) |
+| Movie page | [MIL-002] | 2026-10-25 to 2026-10-26 | 2026-10-26 | S01 | none | index.html, styles.css, manual checklist | [Movie page](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/041-web-movie-ranking/milestones/248) |
+| Documentation | [MIL-003] | 2026-10-26 to 2026-10-27 | 2026-10-27 | S01 | none | README, screenshots, wiki in en, da, ms | [Documentation](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/041-web-movie-ranking/milestones/249) |
 
 ```plantuml
 @startgantt
