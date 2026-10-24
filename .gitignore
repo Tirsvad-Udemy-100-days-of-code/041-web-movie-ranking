@@ -17,3 +17,6 @@ tmp/
 
 # AI prompt log (public repository)
 /docs/ai-prompts/
+
+# Local preview configuration (a throwaway static server for screenshots)
+/.claude/launch.json

@@ -9,7 +9,8 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-24 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [e8d24b2] |
+| 2026-10-24 | Deprecated | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [e8d24b2] |
+| 2026-10-24 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Added RC-006 for the MIL-002 deliverable | pending |
 
 ---
 
@@ -27,7 +28,7 @@ updated whenever an artifact instance is created or reviewed.
 | [SA-001] | SA | en | it | [BC-001] | [PP-001] | [RC-002] |
 | [PP-001] | PP | en | it | [BC-001], [SA-001] | [MIL-001], [MIL-002], [MIL-003] | - |
 | [MIL-001] | MIL | en | it | [BC-001], [PP-001] | [MIL-002] | [RC-003] |
-| [MIL-002] | MIL | en | it | [BC-001], [PP-001] | [MIL-003] | [RC-004] |
+| [MIL-002] | MIL | en | it | [BC-001], [PP-001] | [MIL-003] | [RC-004], [RC-006] |
 | [MIL-003] | MIL | en | it | [BC-001], [PP-001] | - | [RC-005] |
 
 ## Coverage Notes
@@ -47,4 +48,5 @@ No use case, domain model or design artifact exists: the project is too small fo
 [RC-003]: ./reviews/rc-003-mil-001-foundation.md
 [RC-004]: ./reviews/rc-004-mil-002-movie-page.md
 [RC-005]: ./reviews/rc-005-mil-003-documentation.md
+[RC-006]: ./reviews/rc-006-movie-page.md
 [e8d24b2]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/041-web-movie-ranking/commit/e8d24b2d32ce1ef8276123b0efa05b8a15e27d52
