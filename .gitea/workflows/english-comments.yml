@@ -1,0 +1,18 @@
+# Check that the comments a pull request adds are in English.
+#
+# Calls the reusable workflow of TirSystem/github-action. Pinned to the exact
+# tag together with tools-ref. Mark the check as required in the branch
+# protection of main to block a merge (the workflow cannot do that).
+# The framework submodule is not this project's text, so it is excluded.
+
+name: English comments
+
+on:
+  pull_request:
+
+jobs:
+  english-comments:
+    uses: TirSystem/github-action/.gitea/workflows/english-comments.yml@v2.2.0
+    with:
+      exclude: "framework/**"
+      tools-ref: v2.2.0

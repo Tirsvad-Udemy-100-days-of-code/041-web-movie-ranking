@@ -1,0 +1,19 @@
+# Secrets: personal tokens, never committed
+.env
+.env.*
+!.env.example
+
+# Editors and operating systems
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch output
+tmp/
+*.log
+
+# AI prompt log (public repository)
+/docs/ai-prompts/
