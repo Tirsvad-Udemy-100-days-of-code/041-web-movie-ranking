@@ -10,7 +10,7 @@
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
 | 2026-10-24 | Deprecated | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [e8d24b2] |
-| 2026-10-24 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Added RC-006 for the MIL-002 deliverable | pending |
+| 2026-10-24 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Added RC-006 for the MIL-002 deliverable | [5fe4ef0] |
 
 ---
 
@@ -50,3 +50,4 @@ No use case, domain model or design artifact exists: the project is too small fo
 [RC-005]: ./reviews/rc-005-mil-003-documentation.md
 [RC-006]: ./reviews/rc-006-movie-page.md
 [e8d24b2]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/041-web-movie-ranking/commit/e8d24b2d32ce1ef8276123b0efa05b8a15e27d52
+[5fe4ef0]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/041-web-movie-ranking/commit/5fe4ef03673e70026a0667a2585f2d9decb6a2c2

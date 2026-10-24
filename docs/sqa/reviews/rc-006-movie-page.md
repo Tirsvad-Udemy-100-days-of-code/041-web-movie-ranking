@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-24 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | pending |
+| 2026-10-24 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [5fe4ef0] |
 
 ---
 
@@ -45,3 +45,4 @@ Go — all five criteria pass. This is a stand-in review, not an independent one
 ---
 
 [MIL-002]: ../../milestones/mil-002-movie-page.md
+[5fe4ef0]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/041-web-movie-ranking/commit/5fe4ef03673e70026a0667a2585f2d9decb6a2c2
